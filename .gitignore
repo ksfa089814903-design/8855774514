@@ -1,0 +1,7 @@
+node_modules/
+.env
+data/
+backups/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
